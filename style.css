@@ -523,18 +523,17 @@ body {
 }
 
 .lstnav {
-    text-decoration: none;
     list-style: none;
     overflow: auto;
     width: 80%;
     margin: 15px auto;
     color: #eff3f6;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .lstnav .l {
     float: right;
-    margin: auto 6px;
+    margin: auto 4px;
 }
 
 .iconsite {
